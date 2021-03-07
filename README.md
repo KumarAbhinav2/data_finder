@@ -8,6 +8,9 @@
       - Extract all the urls from the file
       - writes the extracted urls to a file
       
+## Needs:
+
+python 3(onwards)
       
 ## Usage:
 
