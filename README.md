@@ -2,7 +2,8 @@
 
 ## Simple Set of Apis to extract data from source, 
 
-  current version does the following:
+    current version does the following:
+  
       - Read text file from the disk
       - Extract all the urls from the file
       - writes the extracted urls to a file
