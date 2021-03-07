@@ -14,7 +14,7 @@
 
 ## Test cases:
 
-```python -m unittest discover
+```python -m unittest discover```
 
 ## Open points:
 
