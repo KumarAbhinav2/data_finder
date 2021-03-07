@@ -25,3 +25,4 @@ python 3(onwards)
   1. Currently dumping the results to file on disk (could be problmetic if data is huge)
   2. Could have refactored extract data part to make it dynamic based on user requirement (currently holding regex match for fetching urls)
   3. Could not test with GBs of text file , may be needed better testing approach
+  4. Still lots of scope for exception handling
